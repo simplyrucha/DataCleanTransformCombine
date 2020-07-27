@@ -1,2 +1,2 @@
 # DataCleanTransformCombine
-Project(s) related to data cleanse, transformation and combination work
+Cleanse, transform and combinate data
